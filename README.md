@@ -1,6 +1,7 @@
 ### 📊🤖 Data Science, ML and AI
 
-This repository serves as a centralized collection of Python algorithms and resources for **Data Science, Machine Learning (ML), and Artificial Intelligence (AI)**. All code examples and projects were developed and tested using **Google Colab** notebooks.
+This repository serves as a centralized collection of Python algorithms and resources for **Data Science, Machine Learning (ML), and Artificial Intelligence (AI)**. 
+All code examples and projects were developed and tested using **R Studio & Google Colab** notebooks.
 
 ---
 
@@ -21,6 +22,7 @@ This repository emphasizes practical application and foundational knowledge acro
 | **ML Techniques** | ML algorithms, including supervised, unsupervised, and deep learning methods. |
 | **Colab Basic Concepts** | Notebooks covering fundamental usage and features of the Google Colab. |
 | **Python Basic Concepts** | Python syntax, data structures, and concepts for scientific computing. |
+| **R Basic Concepts** | R syntax, data structures, and concepts for scientific computing. |
 
 ---
 
